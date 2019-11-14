@@ -1,6 +1,6 @@
 # snake-game
 
-A Clojure library designed to ... well, that part is up to you.
+A clojure implementation of the classic snake game.
 
 ## Usage
 
